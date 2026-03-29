@@ -4,14 +4,14 @@ I'm becoming a Edge AI Developer.
 
 ---
 
-## About Me ✨
+## About Me
 
 - Factory / Sensor / Sensor Fusion
 - Edge AI / Model Compression / Energy Efficcient Model
 
 ---
 
-## Tech Stack 🧰
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
