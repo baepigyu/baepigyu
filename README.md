@@ -22,13 +22,15 @@ I'm becoming a Edge AI Developer.
 
 
 ## Main Projects
-1. [MES System](https://github.com/Intel-Edge-9s-MES/MES)
+1. [Risk Aware Autonomous Driving System]
+- 
+2. [MES System](https://github.com/Intel-Edge-9s-MES/MES)
 - Factory Management System Based on OPCUA Communication Protocol
-2. [2025 Dcase Task 2 : Self-Supervised Anomaly Sound Detection](https://github.com/AI-Stat-Lab-2025-Dcase-Task2/2025-Dcase-Task2)
+3. [2025 Dcase Task 2 : Self-Supervised Anomaly Sound Detection](https://github.com/AI-Stat-Lab-2025-Dcase-Task2/2025-Dcase-Task2)
 -  Machine Condition Monitoring based on Self-Supervised Learning, including Domain Adaptation & Lack of Data Problem
-3. [Estimating Collaborative Information to Eliminate Retraining in LLMRecs](https://github.com/baepigyu/Estimating-Collaborative-Information-to-Eliminate-Retraining-in-LLMRecs)
+4. [Estimating Collaborative Information to Eliminate Retraining in LLMRecs](https://github.com/baepigyu/Estimating-Collaborative-Information-to-Eliminate-Retraining-in-LLMRecs)
 - Removing the requirement of retraining process for LLM Recommneder System combined with GNN Embedding
-4. 2024 Dcase Task 2 : Self-Supervised Anomaly Sound Detection
+5. 2024 Dcase Task 2 : Self-Supervised Anomaly Sound Detection
 -  Machine Condition Monitoring based on Self-Supervised Learning, including Domain Adaptation & Lack of Data Problem
 ---
 
