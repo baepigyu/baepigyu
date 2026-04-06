@@ -6,8 +6,8 @@ I'm becoming a Edge AI Developer.
 
 ## About Me
 
-- Factory / Sensor / Sensor Fusion
-- Edge AI / Model Compression / Energy Efficcient Model
+- Sensor Fusion
+- Edge AI / Industrial AI
 
 ---
 
